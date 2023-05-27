@@ -12,3 +12,5 @@ I don't see the point in explaining it, it's all self-explanatory.
 
 ### Permissions:
 - phone
+
+P.s.: The plugin was written back in 2019 and was abandoned and forgotten. At the same time this mod was created for it: https://steamcommunity.com/sharedfiles/filedetails/?id=1801828948
